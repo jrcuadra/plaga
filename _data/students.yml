@@ -1,4 +1,7 @@
-
+- name: "José Barría"
+  photo: jose.jpg
+  role: PhD student at UV
+  area: radiation hydrodynamics simulations of circumbinary discs
 
 - name: "This could be you !"
   photo: astronaut.png
