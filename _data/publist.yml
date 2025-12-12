@@ -1,13 +1,13 @@
 ## - title: "%T" \n  image: dummy.png \n  description:  \n  authors: %f \n  link:   \n    url:  %u  \n    display: %q %V, %p (%Y)  \n  highlight: 0  \n  news2:    \n
 
 - title: "NICER observations reveal doubled timescales in Ansky's quasi-periodic eruptions" 
-  image: dummy.png 
-  description:  
+  image: 2025A&A...703A.263H.jpg 
+  description: "We analyze new NICER observations of QPEs in Ansky. The 2025 QPEs are found to be four times more energetic, with recurrence times of approximately 10 days and flare durations ranging from 2.5 to 4 days, making them both about twice as long as in 2024. We explore different theoretical scenarios, including evolving stream–disk interactions in an extreme mass-ratio inspiral system."  
   authors: Hernández-García, Sánchez-Sáez, Chakraborty, __Cuadra__, Miniutti, Arcodia, Arévalo, Giustini, Kara, Ricci, Pasham, Arzoumanian, Gendreau, and Lira 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2025A&A...703A.263H  
     display: A&A 703, A263 (2025)  
-  highlight: 0  
+  highlight: 1  
   news2:    
 
 - title: "Tidal phenomena in the Galactic Center: The curious case of X7" 
