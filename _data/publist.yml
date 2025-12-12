@@ -1,5 +1,77 @@
 ## - title: "%T" \n  image: dummy.png \n  description:  \n  authors: %f \n  link:   \n    url:  %u  \n    display: %q %V, %p (%Y)  \n  highlight: 0  \n  news2:    \n
 
+- title: "NICER observations reveal doubled timescales in Ansky's quasi-periodic eruptions" 
+  image: dummy.png 
+  description:  
+  authors: Hernández-García, Sánchez-Sáez, Chakraborty, Cuadra, Miniutti, Arcodia, Arévalo, Giustini, Kara, Ricci, Pasham, Arzoumanian, Gendreau, and Lira 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2025A&A...703A.263H  
+    display: A&A 703, A263 (2025)  
+  highlight: 0  
+  news2:    
+
+- title: "Tidal phenomena in the Galactic Center: The curious case of X7" 
+  image: dummy.png 
+  description:  
+  authors: Shaqil, Calderón, Rosswog, Cuadra, Ciurlo, Morris, Campbell, and Ghez 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2025A&A...700A.134S  
+    display: A&A 700, A134 (2025)  
+  highlight: 0  
+  news2:    
+
+- title: "Discovery of extreme quasi-periodic eruptions in a newly accreting massive black hole" 
+  image: dummy.png 
+  description:  
+  authors: Hernández-García, Chakraborty, Sánchez-Sáez, Ricci, Cuadra, McKernan, Ford, Arévalo, Rau, Arcodia, Kara, Liu, Merloni, Bruni, Goodwin, Arzoumanian, Assef, Baldini, Bayo, Bauer, Bernal, Brightman, Calistro Rivera, Gendreau, Homan, Krumpe, Lira, Martínez-Aldama, Salvato, and Sotomayor 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2025NatAs...9..895H  
+    display: NatAs 9, 895 (2025)  
+  highlight: 0  
+  news2:    
+
+- title: "Ionized Envelopes Around Protoplanets and the Role of Radiative Feedback in Gas Accretion" 
+  image: dummy.png 
+  description:  
+  authors: Montesinos, Garrido-Deutelmoser, Cuadra, Sucerquia, Cuello, Schreiber, Ronco, and Guilera 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2025ApJ...985...36M  
+    display: ApJ 985, 36 (2025)  
+  highlight: 0  
+  news2:    
+
+- title: "Combining REBOUND and MESA: dynamical evolution of planets orbiting interacting binaries" 
+  image: dummy.png 
+  description:  
+  authors: Xing, Torres, Götberg, Trani, Korol, and Cuadra 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2025MNRAS.537..285X  
+    display: MNRAS 537, 285 (2025)  
+  highlight: 0  
+  news2:    
+
+- title: "The role of shocks and the velocity gradient in the relative orientation of the magnetic field and dense gas clouds" 
+  image: dummy.png 
+  description:  
+  authors: Granda-Muñoz, Vázquez-Semadeni, and Gómez 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2025A&A...694A.296G  
+    display: A&A 694, A296 (2025)  
+  highlight: 0  
+  news2:    
+
+- title: "The formation and stability of a cold disc made out of stellar winds in the Galactic centre" 
+  image: dummy.png 
+  description:  
+  authors: Calderón, Cuadra, Russell, Burkert, Rosswog, and Balakrishnan 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2025A&A...693A.180C  
+    display: A&A 693, A180 (2025)  
+  highlight: 0  
+  news2:    
+
+
+
 
 - title: "AT 2021hdr: A candidate tidal disruption of a gas cloud by a binary super massive black hole system" 
   image: 2024arXiv241108949H.jpeg
