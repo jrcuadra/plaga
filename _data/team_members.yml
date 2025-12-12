@@ -42,6 +42,18 @@
       academia: https://uni.academia.edu/GuidoGrandaMu%C3%B1oz
 
 
+- name: Astor Sandoval
+  photo: male.png
+  role: Postdoctoral researcher, UAI
+  education: PhD, U de Chile
+  area: particle acceleration and heating in collisionless accreting flows
+  labels:
+    - type: email
+      email: guido.granda@edu.uai.cl
+    - type: academia
+      academia: https://uni.academia.edu/GuidoGrandaMu%C3%B1oz
+
+
 
 
 - name: "This could be you !"
