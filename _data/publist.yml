@@ -27,8 +27,12 @@
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2025NatAs...9..895H  
     display: NatAs 9, 895 (2025)  
-  highlight: 0  
+  highlight: 1  
   news2:    
+  news2: "Artículo en revista RAL: [El Despertar De Un Agujero Negro Gigante](https://revistaral.cl/el-despertar-de-un-agujero-negro-gigante/)"
+  news1: "ESA Press Release: [From boring to bursting: a giant black hole awakens](https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/From_boring_to_bursting_a_giant_black_hole_awakens)"
+
+
 
 - title: "Ionized Envelopes Around Protoplanets and the Role of Radiative Feedback in Gas Accretion" 
   image: dummy.png 
