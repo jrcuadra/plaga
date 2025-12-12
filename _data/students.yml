@@ -1,24 +1,3 @@
-- name: Daniela Cerda
-  photo: female.png
-  role: Astronomy student, UV
-  education: 
-  area: non-gravitational forces for comets 
-  labels:
-    - type: email
-      email: daniela.cerdal@alumnos.uv.cl
- 
-
-- name: Miguel Vergara
-  photo: miguel.jpg
-  role: Computer Science Engineering student, UTFSM
-  education: 
-  area: video games and VR visualisation 
-  labels:
-    - type: email
-      email: miguel.vergarap@sansano.usm.cl
-    - type: linkedin
-      linkedin: https://cl.linkedin.com/in/miguel-vergara-703304235
- 
 
 
 - name: "This could be you !"
