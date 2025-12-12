@@ -22,25 +22,11 @@
   photo: female.png
   role: BSc 2025
   education: 
-  area: non-gravitational forces for comets 
+  area: 
   labels:
     - type: email
       email: daniela.cerdal@alumnos.uv.cl
  
-
-- name: Miguel Vergara
-  photo: miguel.jpg
-  role: Computer Science Engineering student, UTFSM
-  education: 
-  area: video games and VR visualisation 
-  labels:
-    - type: email
-      email: miguel.vergarap@sansano.usm.cl
-    - type: linkedin
-      linkedin: https://cl.linkedin.com/in/miguel-vergara-703304235
- 
-
-
 
 - name: Xian Chen
   haswww: 1
@@ -371,4 +357,17 @@
       linkedin: https://co.linkedin.com/in/mario-sucerquia-72035b173
 
 
+
+
+- name: Miguel Vergara
+  photo: miguel.jpg
+  role: MEng 2024
+  education: 
+  area: 
+  labels:
+    - type: email
+      email: miguel.vergarap@sansano.usm.cl
+    - type: linkedin
+      linkedin: https://cl.linkedin.com/in/miguel-vergara-703304235
+ 
 
