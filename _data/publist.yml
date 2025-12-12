@@ -11,14 +11,14 @@
   news2:    
 
 - title: "Tidal phenomena in the Galactic Center: The curious case of X7" 
-  image: dummy.png 
-  description:  
+  image: 2025A&A...700A.134S.jpg
+  description: "Several enigmatic dusty sources have been detected in the central parsec of the Galactic Center. Among them is X7, that it is becoming elongated due to the tidal forces of Sgr A&#42;. Our results show that a grazing collision between the star S33/S0-30 and a field object such as a stellar mass black hole or a Jupiter-mass object is a viable scenario to explain the origin of X7. " 
   authors: Shaqil, Calderón, Rosswog, __Cuadra__, Ciurlo, Morris, Campbell, and Ghez 
   link:   
     url:  https://ui.adsabs.harvard.edu/abs/2025A&A...700A.134S  
     display: A&A 700, A134 (2025)  
-  highlight: 0  
-  news2:    
+  highlight: 1  
+  news2: "UHH press release: [A mysterious cloud near the Milky Way's black hole is being torn apart](https://www.qu.uni-hamburg.de/research/highlights/25-08-20-shaqil-mysterious-cloud.html)"   
 
 - title: "Discovery of extreme quasi-periodic eruptions in a newly accreting massive black hole" 
   image: 2025NatAs...9..895H.jpg 
