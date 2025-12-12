@@ -1,0 +1,818 @@
+- title: "Cronomoons: origin, dynamics, and light-curve features of ringed exomoons" 
+  image: dummy.png 
+  description:  
+  authors: Sucerquia, Alvarado-Montes, Bayo, __Cuadra__, Cuello, Giuppone, Montesinos, Olofsson, Schwab, Spitler, and Zuluaga 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.3310S  
+    display: MNRAS.tmp (2021)  
+  highlight: 0  
+  news2:    
+
+- title: "The protoplanetary disc around HD 169142: circumstellar or circumbinary?" 
+  image: dummy.png 
+  description:  
+  authors: Poblete, Cuello, Pérez, Marino, Calcino, Macías, Ribas, Zurlo, __Cuadra__, Montesinos, Zúñiga-Fernández, Bayo, Pinte, Ménard, and Price 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.3145P  
+    display: MNRAS.tmp (2021)  
+  highlight: 0  
+  news2:    
+
+- title: "The importance of thermal torques on the migration of planets growing by pebble accretion" 
+  image: 2021MNRAS.507.3638G.png 
+  description: "We study the role of the thermal torque within the pebble accretion paradigm. Our simulations show that the thermal torque generates extended regions of outward migration in low-viscosity discs. This has a significant impact in the formation of the planets."  
+  authors: __Guilera__, Miller Bertolami, Masset, __Cuadra__, Venturini, and __Ronco__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.3638G  
+    display: MNRAS 507, 3638 (2021)  
+  highlight: 1  
+  news2: "Astrobites summary: [Planets go weeee!](https://astrobites.org/2021/08/28/planets-go-weeee/)"   
+
+- title: "The HD 98800 quadruple pre-main sequence system. Towards full orbital characterisation using long-baseline infrared interferometry" 
+  image: dummy.png 
+  description:  
+  authors: Zúñiga-Fernández, Olofsson, Bayo, Haubois, Corral-Santana, Lopera-Mejía, __Ronco__, Tokovinin, Gallenne, Kennedy, and Berger 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2021A&A...655A..15Z  
+    display: A&A 655, A15 (2021)  
+  highlight: 0  
+  news2:    
+
+- title: "New Hydrodynamic Solutions for Line-driven Winds of Hot Massive Stars Using the Lambert W-function" 
+  image: dummy.png 
+  description:  
+  authors: __Gormaz-Matamala__, Curé, Hillier, Najarro, Kubátová, and Kubát 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2021ApJ...920...64G  
+    display: ApJ 920, 64 (2021)  
+  highlight: 0  
+  news2:    
+
+- title: "Long Live the Disk: Lifetimes of Protoplanetary Disks in Hierarchical Triple-star Systems and a Possible Explanation for HD 98800 B" 
+  image: 2021ApJ...916..113P.png 
+  description: "We model the long-term evolution of circumbinary gaseous discs in triple systems, finding their lifetimes to be extended for more than 10 Myr.  We apply this model to the disc around HD 98800B." 
+  authors: __Ronco__, __Guilera__, __Cuadra__, Miller Bertolami, Cuello, __Fontecilla__, Poblete, and Bayo 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2021ApJ...916..113P  
+    display: ApJ 916, 113 (2021)  
+  highlight: 1  
+  news2:  "NPF Press Release: [Studying the time evolution of the disks in which planets form](http://www.npf.cl/en/2021/06/23/studying-the-time-evolution-of-the-disks-in-which-planets-form/)
+  	 Original version: [Estudiando la evolución temporal de los discos en los que se forman los planetas](http://www.npf.cl/2021/06/23/estudiando-la-evolucion-temporal-de-los-discos-en-los-que-se-forman-los-planetas/)"   
+
+- title: "Analytical solutions for radiation-driven winds in massive stars - II. The δ-slow regime" 
+  image: dummy.png 
+  description:  
+  authors: Araya, Christen, Curé, Cidale, Venero, Arcos, __Gormaz-Matamala__, Haucke, Escárate, and Clavería
+  link:
+    url:  https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.2550A  
+    display: MNRAS 504, 2550 (2021)  
+  highlight: 0  
+  news2:    
+
+- title: "A Detailed Characterization of HR 8799's Debris Disk with ALMA in Band 7" 
+  image: dummy.png 
+  description:  
+  authors: Faramaz, Marino, Booth, Matrà, Mamajek, Bryden, Stapelfeldt, Casassus, __Cuadra__, Hales, and Zurlo 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2021AJ....161..271F  
+    display: AJ 161, 271 (2021)  
+  highlight: 0  
+  news2:    
+
+- title: "Feedback-limited Accretion: Variable Luminosity from Growing Planets" 
+  image: 2020MNRAS.tmp.3631G.gif 
+  description: "We find that feedback reduces but does not halt the accretion on to the planet.  Planet heating gives the accretion rate a stochastic variability, opposite to the periodic variability due to an eccentric orbit." 
+  authors: __Gárate__, __Cuadra__, Montesinos, and Arévalo 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.3113G  
+    display: MNRAS 501, 3113 (2021)  
+  highlight: 1 
+  news2: "NPF Press Release: [How does a forming planet behave?](http://www.npf.cl/en/2021/01/04/how-does-a-forming-planet-behave/)
+  	 Original version: [¿Cómo se comporta un planeta en formación?](http://www.npf.cl/2021/01/04/como-se-comporta-un-planeta-en-formacion/)"   
+
+- title: "Radiative Scale Height and Shadows in Protoplanetary Disks" 
+  image: 2021ApJ...910...31M.png 
+  description: "We calculate the effect of an accreting planet on the scale height of the disc, including radiative pressure.  We find a large, optically thick column of gas and dust at the protoplanet location, able to cast shadows on the outer disc."
+  authors: Montesinos, __Cuello__, Olofsson, __Cuadra__, Bayo, Bertrang, and Perrot 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2021ApJ...910...31M  
+    display: ApJ 910, 31 (2021)  
+  highlight: 1  
+  news2: "NPF Press Release: [The Shadow Play of Forming Planets](http://www.npf.cl/en/2021/02/22/the-shadow-play-of-forming-planets/)
+  	 Original version: [El juego de sombras de los planetas en formación](http://www.npf.cl/2021/02/22/el-juego-de-sombras-de-los-planetas-en-formacion/)"   
+
+
+- title: "WD 1856 b: a close giant planet around a white dwarf that could have survived a common envelope phase" 
+  image: dummy.png 
+  description:  
+  authors: Lagos, Schreiber, Zorotovic, Gänsicke, __Ronco__, and Hamers 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2021MNRAS.501..676L  
+    display: MNRAS 501, 676 (2021)  
+  highlight: 0  
+  news2:    
+
+- title: "Hybrid stars with sequential phase transitions: the emergence of the g<SUB>2</SUB> mode" 
+  image: dummy.png 
+  description:  
+  authors: Rodríguez, Ranea-Sandoval, Mariani, Orsaria, Malfatti, and __Guilera__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2021JCAP...02..009R  
+    display: JCAP 2021, 009 (2021)  
+  highlight: 0  
+  news2:    
+
+- title: "Discontinuity g modes of hybrid stars: Effect of sequential phase transitions" 
+  image: dummy.png 
+  description:  
+  authors: Rodríguez, Ranea-Sandoval, Mariani, Malfatti, and __Guilera__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2021AN....342..305R  
+    display: AN 342, 305 (2021)  
+  highlight: 0  
+  news2:    
+
+
+- title: "The effect of cooling on the accretion of circumprimary discs in merging supermassive black hole binaries" 
+  image: 2020MNRAS.tmp.2876F.png 
+  description:  "Our main results are that if the gas cannot cool fast enough the disc becomes thick and renders the system invisible, while in the opposite case the strong cooling blocks any leakage on to the secondary's orbit, allowing an enhancement in the accretion rate."
+  authors: __Fontecilla__, Lodato, and __Cuadra__
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.2876F
+    display: MNRAS 499, 2836 (2020)  
+  highlight: 1  
+  news2:    
+
+- title: "Most super-Earths formed by dry pebble accretion are less massive than 5 Earth masses" 
+  image: dummy.png 
+  description:  
+  authors: Venturini, __Guilera__, __Ronco__, and Mordasini 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020A&A...644A.174V  
+    display: A&A 644, A174 (2020)  
+  highlight: 0  
+  news2:    
+
+- title: "The nature of the radius valley. Hints from formation and evolution models" 
+  image: 2020A&A...643L...1V.png 
+  description: "We run global planet formation simulations. We find that due to the change in dust properties at the water ice line, rocky cores form typically with ∼3 M⊕, while icy cores peak at ∼10 M⊕."
+  authors: Venturini, __Guilera__, Haldemann, __Ronco__, and Mordasini 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020A&A...643L...1V  
+    display: A&A 643, L1 (2020)  
+  highlight: 1
+  news1: "NCCR PlanetS Press Release: [How water explains missing planets](http://nccr-planets.ch/blog/2020/10/28/how-water-explains-missing-planets/)."
+  news2: "NPF Press Release: [What do the sizes of the Kepler planets tell us about their formation process?](http://www.npf.cl/en/2020/10/30/what-do-the-sizes-of-the-kepler-planets-tell-us-about-their-formation-process/)
+  	 Original version: [¿Qué nos dicen los tamaños de los planetas Kepler sobre su proceso de formación ?](http://www.npf.cl/2020/10/30/que-nos-dicen-los-tamanos-de-los-planetas-kepler-sobre-su-proceso-de-formacion/)"   
+
+- title: "Dust trapping around Lagrangian points in protoplanetary disks" 
+  image: 2020A&A...642A.224M.gif
+  description: "We follow the evolution of a protoplanetary disk with an embedded giant planet.  We find that the leading Lagrangian point L4 traps a larger amount of submillimeter particles than the trailing L5, which traps mostly mm-cm particles." 
+  authors: Montesinos, __Garrido-Deutelmoser__, Olofsson, et al. (incl. __Cuadra__)
+  authorsall: Montesinos, __Garrido-Deutelmoser__, Olofsson, Giuppone, __Cuadra__, Bayo, Sucerquia, and Cuello 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020A&A...642A.224M  
+    display: A&A 642, A224 (2020)  
+  highlight: 1  
+  news2: "NPF press release: [Trojans in our Solar System](http://www.npf.cl/en/2020/09/27/trojans-in-our-solar-system/).
+  	  Original version: [Los troyanos en nuestro Sistema Solar](http://www.npf.cl/2020/09/27/los-troyanos-en-nuestro-sistema-solar/)."  
+
+- title: "Giant planet formation at the pressure maxima of protoplanetary disks. II. A hybrid accretion scenario" 
+  image: dummy.png 
+  description:  
+  authors: __Guilera__, Sándor, __Ronco__, Venturini, and Miller Bertolami 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020A&A...642A.140G  
+    display: A&A 642, A140 (2020)  
+  highlight: 0  
+  news2:    
+
+
+
+- title: "Setting the Stage: Planet Formation and Volatile Delivery" 
+  image: 2020SSRv..216...86V.png
+  description: "This review aims to summarise the key concepts and processes operating during planet formation, with a focus on the delivery of volatiles to the inner regions of the planetary system."
+  authors: Venturini, __Ronco__, and __Guilera__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020SSRv..216...86V  
+    display: SSRv 216, 86 (2020)  
+  highlight: 1  
+  news2: "Nota del NPF: [Preparando el escenario: Resumen sobre lo que sabemos de la formación planetaria](http://www.npf.cl/2020/06/30/preparando-el-escenario-resumen-sobre-lo-que-sabemos-de-la-formacion-planetaria/)"
+
+- title: "How Jupiters save or destroy inner Neptunes around evolved stars" 
+  image: 2020arXiv200704337R.png
+  description:  We study the post-main-sequence evolution of planetary systems with an inner Neptune and an outer Jupiter.  We find that gravitational interactions between the planets (in particular, resonances) can change whether they survive engulfment by the host star as it turns into a red giant. 
+  authors: __Ronco__, Schreiber, Giuppone, Veras, __Cuadra__, and __Guilera__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020arXiv200704337R  
+    display: ApJL 898, L23 (2020)	
+  highlight: 1  
+  news1: "AAS Nova article: [How Planets Can Save or Destroy Their Siblings
+](https://aasnova.org/2020/10/14/how-planets-can-save-or-destroy-their-siblings/)"
+  news2: "NPF press release: [Hero or villain? A Jupiter can save or destroy a Neptune while the host star transforms into a Red Giant](http://www.npf.cl/en/2020/07/11/hero-or-villain-a-jupiter-can-save-or-destroy-a-neptune-while-the-host-star-transforms-into-a-red-giant/).
+Original version: [¿Héroe o villano? Un Júpiter puede salvar o destruir a un Neptuno mientras la estrella anfitriona se transforma en Gigante Roja](http://www.npf.cl/2020/07/10/heroe-o-villano-un-jupiter-puede-salvar-o-destruir-a-un-neptuno-mientras-la-estrella-anfitriona-se-transforma-en-gigante-roja/)."   
+
+- title: "Ongoing flyby in the young multiple system UX Tauri" 
+  image: dummy.png 
+  description:  
+  authors: Ménard, __Cuello__, Ginski, et al.
+  authorsall: Ménard, Cuello, Ginski, van der Plas, Villenave, Gonzalez, Pinte, Benisty, Boccaletti, Price, Boehler, Chripko, de Boer, Dominik, Garufi, Gratton, Hagelberg, Henning, Langlois, Maire, Pinilla, Ruane, Schmid, van Holstein, Vigan, Zurlo, Hubin, Pavlov, Rochat, Sauvage, and Stadler 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020A&A...639L...1M  
+    display: A&A 639, L1 (2020)  
+  highlight: 0  
+  news2:    
+
+- title: "Binary-induced spiral arms inside the disc cavity of AB Aurigae" 
+  image: 2020MNRAS.496.2362P.png
+  description: We use numerical simulations to show that the inner spiral structure observed in AB Aurigae can be created by a binary star orbiting inside the dust cavity. We constrain the inclination of the binary with respect to the circumbinary disc to range between 60° and 90°.  
+  authors: __Poblete__, Calcino, __Cuello__, Macías, Ribas, Price, __Cuadra__, and Pinte 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.2362P  
+    display: MNRAS 496, 2362 (2020)  
+  highlight: 1  
+  news2: "Nota del NPF: [Astrónomos ponen en duda que un planeta en formación sea el causante de épica imagen](http://www.npf.cl/2020/05/29/astronomos-ponen-en-duda-que-un-planeta-en-formacion-sea-el-causante-de-epica-imagen-de-un-planeta-en-formacion/)"
+  news1: "Article from Science Alert: [Astronomers Are Now Disagreeing Over Those Epic 'New Planet Birth' Images](https://www.sciencealert.com/a-dust-swirl-attributed-to-a-baby-planet-could-be-something-else)" 
+
+- title: "The VISTA Variables in the Vía Láctea infrared variability catalogue (VIVA-I)" 
+  image: dummy.png 
+  description:  
+  authors: Ferreira Lopes, Cross, Catelan, et al. (incl. __Russell__)
+  authorsall: Ferreira Lopes, Cross, Catelan, Minniti, Hempel, Lucas, Angeloni, Jablonsky, Braga, Leão, Herpich, Alonso-García, Papageorgiou, Pichara, Saito, Bradley, Beamin, Cortés, De Medeiros, and Russell 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.1730F  
+    display: MNRAS 496, 1730 (2020)  
+  highlight: 0  
+  news2:    
+
+- title: "Three-dimensional simulations of clump formation in stellar wind collisions" 
+  image: 2020MNRAS.493..447C.png
+  description:  We develop AMR simulations to characterise the clump formation process in unstable wind collisions. Applying the results to the Galactic Centre, we find the clumps do not survive for long enough to fall on to the central supermassive black hole.
+  authors: __Calderón__, __Cuadra__, Schartmann, Burkert, Prieto, and __Russell__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.493..447C  
+    display: MNRAS 493, 447 (2020)  
+  highlight: 1  
+  news2:    
+
+- title: "Colliding winds in and around the stellar group IRS 13E at the galactic centre" 
+  image: 2020MNRAS.492.2481W.png 
+  description:  We present a multiwavelength study of the group.  The observed emission is not quite well reproduced by simulated colliding winds, so we argue the group is colliding with the mini-spiral. The presence of an IMBH is not necessary to explain the observed stellar and gas properties of IRS 13E. 
+  authors: __Wang__, __Li__, __Russell__, and __Cuadra__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.2481W  
+    display: MNRAS 492, 2481 (2020)  
+  highlight: 1  
+  news0: "UMass Amherst article: [UMass Amherst Astronomer Heading to Chile, the World Capital of Astronomical Observation, on a Fulbright Award](https://www.umass.edu/newsoffice/article/umass-amherst-astronomer-heading-chile)"   
+
+- title: "Flyby-induced misalignments in planet-hosting discs" 
+  image: dummy.png 
+  description:  
+  authors: Nealon, __Cuello__, and Alexander 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.491.4108N  
+    display: MNRAS 491, 4108 (2020)  
+  highlight: 0  
+  news2:    
+
+- title: "Flybys in protoplanetary discs - II. Observational signatures" 
+  image: 2020MNRAS.491..504C.png 
+  description: Flybys produce warped discs, spirals with evolving pitch angles, increasing accretion rates, and disc truncation. Here, we present the corresponding observational signatures of these features in optical/near-infrared scattered light and (sub) millimetre continuum and CO line emission.
+  authors: __Cuello__, Louvet, Mentiplay, et al. (incl. __Cuadra__)
+  authorsall: Cuello, Louvet, Mentiplay, Pinte, Price, Winter, Nealon, Ménard, Lodato, Dipierro, Christiaens, Montesinos, Cuadra, Laibe, Cieza, Dong, and Alexander 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020MNRAS.491..504C  
+    display: MNRAS 491, 504 (2020)  
+  highlight: 1  
+  news2: "Nota del NPF: [Escenas de crimen astrofísicas: ¿Cómo se ve un disco protoplanetario luego de un encuentro estelar?](http://www.npf.cl/2019/12/27/escenas-de-crimen-astrofisicas-como-se-ve-un-disco-protoplanetario-luego-de-un-encuentro-estelar/)"
+
+- title: "Resolving the FU Orionis System with ALMA: Interacting Twin Disks?" 
+  image: dummy.png 
+  description:  
+  authors: Pérez, Hales, Liu, et al. (incl. __Cuello__)
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020ApJ...889...59P  
+    display: ApJ 889, 59 (2020)  
+  highlight: 0  
+  news2:    
+
+- title: "Stellar Winds Pump the Heart of the Milky Way" 
+  image: 2020ApJ...888L...2C.png 
+  description: We show that the Wolf-Rayet winds in the Galactic Centre can naturally account for both the hot, inefficient accretion flow, as well as the formation of a cold disk-like structure. 
+  authors: __Calderón__, __Cuadra__, Schartmann, Burkert, and __Russell__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2020ApJ...888L...2C  
+    display: ApJL 888, L2 (2020)  
+  highlight: 1  
+  news2: "Artículo en La Tercera: [Astrónomos chilenos prueban que existe un disco de gas en torno al agujero negro en el centro de nuestra galaxia](https://www.latercera.com/que-pasa/noticia/astronomos-disco-gas/1007208/)"
+  news1: "Research highlight feature in Nature Astronomy: [Feeding frenzy has faded](https://rdcu.be/b1bAz)"
+
+- title: "Signatures of an eccentric disc cavity: Dust and gas in IRS 48" 
+  image: dummy.png 
+  description:  
+  authors: Calcino, Price, Pinte,  et al. (incl. __Cuello__)
+  authorsall: Calcino, Price, Pinte, van der Marel, Ragusa, Dipierro, Cuello, and Christiaens 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2579C  
+    display: MNRAS 490, 2579 (2019)  
+  highlight: 0  
+  news2:    
+
+- title: "Ploonets: formation, evolution, and detectability of tidally detached exomoons" 
+  image: 2019MNRAS.489.2313S.png 
+  description:  This paper explores the scenario where large regular exomoons escape after tidal interchange of angular momentum with its parent planet, becoming small planets by themselves. We name this hypothetical type of object a ploonet. 
+  authors: __Sucerquia__, Alvarado-Montes, Zuluaga, __Cuello__, and Giuppone 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.2313S  
+    display: MNRAS 489, 2313 (2019)  
+  highlight: 1
+  news1: "Smart Banana cartoon: [There Are Not Only Planets In Space, But Ploonets!](https://youtu.be/4B-O48ElEsM)"
+  news2: "Astronomy.com article: [Ploonets: When a planet's moon goes rogue](https://astronomy.com/news/2019/07/ploonets-when-a-planets-moon-goes-rogue)"
+  news3: "Science News article: [Moons that escape their planets could become ‘ploonets’](https://www.sciencenews.org/article/moons-escape-their-planets-could-become-ploonets)"
+  news4: "Nota de la UdeA: [Plunetas, lunas migrantes](http://www.udea.edu.co/wps/portal/udea/web/inicio/udea-noticias/udea-noticia/!ut/p/z0/fUw9C8IwFPwrLh3lxVqjjsVBEAcHkTaLPNqgT5O8NknFn2-qg7i43Bd3BwoqUA4fdMFI7NAkXyt5Xq03-awsxF7IQopSHorFMt_OjycBO1D_C-mBbn2vSlANu6ifEaqOfUQztBozgeHXXdnqjx5x4jhSQxgy8V47anlsfeNOe-KWGkZj0WLUPmVmcDpimCZOaOniMY0DdHdVvwCLxP5v/)"
+
+- title: "Dusty clumps in circumbinary discs" 
+  image: 2019MNRAS.489.2204P.png
+  description:  "We study the dust and gas dynamics in circumbinary discs around eccentric and inclined binaries. Two kinds of dust structures can form in the disc: a single horseshoe-shaped clump or numerous clumps along the inner disc rim. These could be used to infer the orbital parameters of a stellar companion."
+  authors: __Poblete__, __Cuello__, and __Cuadra__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.2204P  
+    display: MNRAS 489, 2204 (2019)  
+  highlight: 1  
+  news2: "Nota del NPF: [¿Cómo afectan los sistemas estelares dobles a los discos protoplanetarios?](http://www.npf.cl/2019/12/18/como-afectan-los-sistemas-estelares-dobles-a-los-discos-protoplanetarios/)"   
+  news1: "Artículo en La Tercera: [Estudio chileno ayudará a identificar sistemas planetarios con dos estrellas](https://www.latercera.com/que-pasa/noticia/estudio-chileno-ayudara-a-identificar-sistemas-planetarios-con-dos-estrellas/959179/)"
+
+- title: "From Scattered-light to Millimeter Emission: A Comprehensive View of the Gigayear-old System of HD 202628 and its Eccentric Debris Ring" 
+  image: dummy.png 
+  description:  
+  authors: Faramaz, Krist, Stapelfeldt, et al. (incl. __Cuadra__)
+  authorsall: Faramaz, Krist, Stapelfeldt, Bryden, Mamajek, Matrà, Booth, Flaherty, Hales, Hughes, Bayo, Casassus, Cuadra, Olofsson, Su, and Wilner 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2019AJ....158..162F  
+    display: AJ 158, 162 (2019)  
+  highlight: 0  
+  news2:    
+
+- title: "Planet formation and stability in polar circumbinary discs" 
+  image: 2019A&A...628A.119C.png 
+  description: "We confirm previous analytical predictions on circumbinary disc  alignment, but find an unexpected symmetry breaking between prograde and retrograde configurations, which results in higher likelihood for polar discs.  Additionally, Tatooines on polar orbits are stable over a wide range of binary parameters." 
+  authors: __Cuello__ and Giuppone 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2019A&A...628A.119C  
+    display: A&A 628, A119 (2019)  
+  highlight: 1  
+  news2: "Nota del NPF: [No por ser muchos todo se alinea: Investigación concluye que los discos protoplanetarios ortogonales son más comunes de los que se creía](http://www.npf.cl/2019/07/26/no-por-ser-muchos-todo-se-alinea-investigacion-concluye-que-los-discos-protoplanetarios-ortogonales-son-mas-comunes-de-los-que-se-creia/)"   
+
+- title: "Thermal torque effects on the migration of growing low-mass planets" 
+  image: dummy.png 
+  description:  
+  authors: __Guilera__, __Cuello__, Montesinos, Miller Bertolami, __Ronco__, __Cuadra__, and Masset 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.5690G  
+    display: MNRAS 486, 5690 (2019)  
+  highlight: 0  
+  news2:    
+
+- title: "Planetesimal fragmentation and giant planet formation. II. Dependencies with planetesimal relative velocities and compositions" 
+  image: dummy.png 
+  description:  
+  authors: San Sebastián, __Guilera__, and Parisi 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2019A&A...625A.138S  
+    display: A&A 625, A138 (2019)  
+  highlight: 0  
+  news2:    
+
+- title: "Flybys in protoplanetary discs: I. Gas and dust dynamics" 
+  image: 2019MNRAS.483.4114C.png 
+  description:  We find that flybys by a stellar perturber induce evolving spiral structure in a protoplanetary disc, which can persist for thousands of years after periastron. The remnant discs are truncated and warped.
+  authors: __Cuello__, Dipierro, Mentiplay, et al. (incl. __Cuadra__ and  __Poblete__)
+  authorsall: __Cuello__, Dipierro, Mentiplay, Price, Pinte, __Cuadra__, Laibe, Ménard, __Poblete__, and Montesinos 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.4114C  
+    display: MNRAS 483, 4114 (2019)  
+  highlight: 1  
+  news2: "NPF press release: [NPF researchers study stellar encounters](http://www.npf.cl/en/2018/12/21/npf-researchers-study-stellar-encounters/).  Original version: [Investigadores del NPF estudian encuentros estelares](http://www.npf.cl/2018/12/21/investigadores-del-npf-estudian-encuentros-estelares/)."
+  news1: "[Robo Planetario](https://congresodelfuturo.cl/robo-planetario/), augmented reality painting based on this work (article and short video in Spanish)"
+
+- title: "Non-steady-state long-term evolution of supermassive black hole binaries surrounded by accretion discs" 
+  image: dummy.png 
+  description:  
+  authors: __Fontecilla__, Haiman, and __Cuadra__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.4383F  
+    display: MNRAS 482, 4383 (2019)  
+  highlight: 0  
+  news2:    
+
+- title: "Dusty spirals triggered by shadows in transition discs" 
+  image: dummy.png 
+  description:  
+  authors: __Cuello__, Montesinos, __Stammler__, Louvet, and __Cuadra__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2019A&A...622A..43C  
+    display: A&A 622, A43 (2019)  
+  highlight: 0  
+  news2:    
+
+- title: "Is there really a debris disc around ζ<SUP>2</SUP> Reticuli?" 
+  image: dummy.png 
+  description:  
+  authors: Faramaz, Bryden, Stapelfeldt, et al. (incl. __Cuadra__)
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.481...44F  
+    display: MNRAS 481, 44 (2018)  
+  highlight: 0  
+  news2:    
+
+- title: "Formation of Solar system analogues - II. Post-gas-phase growth and water accretion in extended discs via N-body simulations" 
+  image: 2018MNRAS.479.5362R.png 
+  description:  We model the late accretion stage of Solar System analogues, finding that potentially habitable planets can form in this process, with an efficiency that depends on the planetesimal sizes.  Water-rich planets seem to form more frequently than dry ones.  
+  authors: __Ronco__ and de Elía 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.5362R  
+    display: MNRAS 479, 5362 (2018)  
+  highlight: 1  
+  news2:  "Nota del NPF: [Astrónomos estudian la formación de sistemas planetarios análogos al Sistema Solar](http://www.npf.cl/2018/08/14/astronomos-estudian-la-formacion-de-sistemas-planetarios-analogos-al-sistema-solar/)"
+  news0:  "Nota del NPF: [Investigadora del NPF recibe importante premio](http://www.npf.cl/2018/09/07/investigadora-del-npf-recibe-importante-premio/)"
+
+- title: "Accretion of clumpy cold gas onto massive black hole binaries: a possible fast route to binary coalescence" 
+  image: dummy.png 
+  description:  
+  authors: __Goicovic__, Maureira-Fredes, Sesana, Amaro-Seoane, and __Cuadra__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.3438G  
+    display: MNRAS 479, 3438 (2018)  
+  highlight: 0  
+  news2:    
+
+- title: "The Galactic Centre source G2 was unlikely born in any of the known massive binaries" 
+  image: dummy.png 
+  description:  
+  authors: __Calderón__, __Cuadra__, Schartmann, Burkert, Plewa, Eisenhauer, and Habibi 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.478.3494C  
+    display: MNRAS 478, 3494 (2018)  
+  highlight: 0  
+  news2:    
+
+- title: "OJ287: deciphering the `Rosetta stone of blazars'" 
+  image: dummy.png 
+  description:  
+  authors: Britzen, Fendt, Witzel, et al. (incl. __Cuadra__)
+  authorsall: Britzen, Fendt, Witzel, Qian, Pashchenko, Kurtanidze, Zajacek, Martinez, Karas, Aller, Aller, Eckart, Nilsson, Arévalo, Cuadra, Subroweit, and Witzel 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.478.3199B  
+    display: MNRAS 478, 3199 (2018)  
+  highlight: 0  
+  news2:    
+
+- title: "Accretion of clumpy cold gas on to massive black hole binaries: the challenging formation of extended circumbinary structures" 
+  image: dummy.png 
+  description:  
+  authors: Maureira-Fredes, __Goicovic__, Amaro-Seoane, and Sesana 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.478.1726M  
+    display: MNRAS 478, 1726 (2018)  
+  highlight: 0  
+  news2:    
+
+- title: "Non-thermal X-rays from colliding wind shock acceleration in the massive binary Eta Carinae" 
+  image: dummy.png 
+  description:  
+  authors: Hamaguchi, Corcoran, Pittard, et al. (incl. __Russell__)
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2018NatAs...2..731H  
+    display: NatAs 2, 731 (2018)  
+  highlight: 0  
+  news2:    
+
+- title: "Circumbinary, not transitional: on the spiral arms, cavity, shadows, fast radial flows, streamers, and horseshoe in the HD 142527 disc" 
+  image: 2018MNRAS.477.1270P.png 
+  description:  We present simulations of the HD 142527 protoplanetary disc, which shows spirals and shadows around a 100 au gas cavity, a large horseshoe mm-dust structure, together with fast radial flows and streamers. We show that all of these features can be explained by the interaction between the disc and the observed binary companion.
+  authors: Price, __Cuello__, Pinte, et al. (incl. __Cuadra__)
+  authorsall: Price, Cuello, Pinte, Mentiplay, Casassus, Christiaens, Kennedy, Cuadra, Sebastian Perez, Marino, Armitage, Zurlo, Juhasz, Ragusa, Laibe, and Lodato 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.1270P  
+    display: MNRAS 477, 1270 (2018)  
+  highlight: 1 
+  news2: "NPF press release: [International team of astronomers explains the cause of the mysterious shape of the disk surrounding a young star](http://www.npf.cl/en/2018/06/11/international-team-of-astronomers-explains-the-cause-of-the-mysterious-shape-of-the-disk-surrounding-a-young-star/).  Original version: [Equipo internacional de astrónomos explica la causa de la misteriosa forma de disco alrededor de estrella joven](http://www.npf.cl/2018/03/26/equipo-internacional-de-astronomos-explica-la-causa-de-la-misteriosa-forma-de-disco-alrededor-de-estrella-joven/)."
+  news1: "Monash press release: [New computer simulations uncover the cause of mystery cosmic ‘horseshoe’ dust](https://www.monash.edu/science/news/current/new-computer-simulations-uncover-the-cause-of-mystery-cosmic-horseshoe-dust)"
+
+- title: "Planetary-like spirals caused by moving shadows in transition discs" 
+  image: dummy.png 
+  description:  
+  authors: __Montesinos__ and __Cuello__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.475L..35M  
+    display: MNRAS 475, L35 (2018)  
+  highlight: 0  
+  news2:    
+
+- title: "HD 169142 in the eyes of ZIMPOL/SPHERE" 
+  image: dummy.png 
+  description:  
+  authors: Bertrang, Avenhaus, Casassus, __Montesinos__, Kirchschlager, Perez, Cieza, and Wolf 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.5105B  
+    display: MNRAS 474, 5105 (2018)  
+  highlight: 0  
+  news2:    
+
+- title: "Proper motions in the VVV Survey: Results for more than 15 million stars across NGC 6544" 
+  image: dummy.png 
+  description:  
+  authors: Contreras Ramos, Zoccali, Rojas, et al. (incl.  __Gárate__)
+  authorsall: Contreras Ramos, Zoccali, Rojas, Rojas-Arriagada, Gárate, Huijse, Gran, Soto, Valcarce, Estévez, and Minniti 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2017A&A...608A.140C  
+    display: A&A 608, A140 (2017)  
+  highlight: 0  
+  news2:    
+
+- title: "Infalling clouds on to supermassive black hole binaries - II. Binary evolution and the final parsec problem" 
+  image: 2017MNRAS.472..514G.png 
+  description: We model the dynamical evolution of a massive black hole binary accreting infalling molecular clouds, finding that is dominated by the exchange of angular momentum through gas capture by the individual black holes and accretion. We show that the binary efficiently evolves down to the gravitational wave regime, overcoming the 'final parsec' problem. 
+  authors: __Goicovic__, Sesana, __Cuadra__, and Stasyszyn 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2017MNRAS.472..514G  
+    display: MNRAS 472, 514 (2017)  
+  highlight: 1  
+  news2:  "PUC press release:  [PhD graduate at the Institute of Astrophysics UC publishes article on the evolution of binary black holes](http://astro.uc.cl/component/content/article/2-uncategorised/345-phd-graduate-at-the-institute-of-astrophysics-uc-publishes-article-on-the-evolution-of-binary-black-holes).  Original version: [Doctorado del Instituto de Astrofísica publicará artículo sobre la evolución de agujeros negros binarios](http://astro.uc.cl/item-3-menu-izquierdo-2/339-doctorado-del-instituto-de-astrofisica-publicara-articulo-sobre-la-evolucion-de-agujeros-negros-binarios)."  
+
+- title: "Size and density sorting of dust grains in SPH simulations of protoplanetary discs" 
+  image: dummy.png 
+  description:  
+  authors: Pignatale, Gonzalez, __Cuello__, Bourdon, and Fitoussi 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2017MNRAS.469..237P  
+    display: MNRAS 469, 237 (2017)  
+  highlight: 0  
+  news2:    
+
+- title: "A second decoupling between merging binary black holes and the inner disc - impact on the electromagnetic counterpart" 
+  image:  2017MNRAS.468L..50F.png 
+  description:   A luminous outburst is expected when a massive black hole binary 'decouples' from the circumbinary disc, squeezing the inner disc. Here, we show that the disc within about 20 Rs survives the merger due to a 'second decoupling', where the inner disc thickens because of tidal heating, decoupling from the binary. 
+  authors: __Fontecilla__, __Chen__, and __Cuadra__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2017MNRAS.468L..50F  
+    display: MNRAS 468, L50 (2017)  
+  highlight: 1  
+  news2:  "PUC press release:  [UC astronomers perform simulation that allows the search for super massive binary black holes](http://astro.uc.cl/component/content/article/2-uncategorised/301-uc-astronomers-perform-simulation-that-allows-the-search-for-super-massive-binary-black-holes).  Original version: [Astrónomos UC realizan simulación que permite buscar agujeros negros súper masivos binarios](http://astro.uc.cl/item-3-menu-izquierdo-2/299-astronomos-uc-realizan-simulacion-que-permite-buscar-agujeros-negros-super-masivos-binarios)."
+
+- title: "Voxel Datacubes for 3D Visualization in Blender" 
+  image: 2017PASP..129e8010G.png 
+  description: We show how to use the open-source software Blender as a 3D tool to study and visualize numerical simulation results, focusing on astrophysical hydrodynamic experiments. This method allows scientists to perform a complementary visual analysis of their data and display their results in an appealing way.
+  authors: __Gárate__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2017PASP..129e8010G  
+    display: PASP 129, 058010 (2017)  
+  highlight: 1  
+  news2:  "PUC press release: [UC Master student publishes invited paper on visualization of simulations](http://astro.uc.cl/component/content/article/2-uncategorised/267-uc-master-student-publishes-invited-paper-on-visualization-of-simulations).  Original version: [Alumno del Magíster en Astrofísica publica artículo sobre visualización de simulaciones](http://astro.uc.cl/item-3-menu-izquierdo-2/263-alumno-del-magister-en-astrofisica-publica-articulo-sobre-visualizacion-de-simulaciones)."
+  news1:  "Code available [Blender_Bvoxer](https://github.com/matgarate/Blender_Bvoxer)"
+
+- title: "Satellite infall and mass deposition on the Galactic Centre" 
+  image: dummy.png 
+  description:  
+  authors: __Gallego__ and __Cuadra__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2017MNRAS.467L..41G  
+    display: MNRAS 467, L41 (2017)  
+  highlight: 0  
+  news2:    
+
+- title: "Redistribution of CO at the location of the CO ice line in evolving gas and dust disks" 
+  image: dummy.png 
+  description:  
+  authors: __Stammler__, Birnstiel, Panić, Dullemond, and Dominik 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2017A&A...600A.140S  
+    display: A&A 600, A140 (2017)  
+  highlight: 0  
+  news2:    
+
+- title: "Inner mean-motion resonances with eccentric planets: a possible origin for exozodiacal dust clouds" 
+  image: dummy.png 
+  description:  
+  authors: __Faramaz__, Ertel, Booth, __Cuadra__, and __Simmonds__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2017MNRAS.465.2352F  
+    display: MNRAS 465, 2352 (2017)  
+  highlight: 0  
+  news2:    
+
+- title: "Modelling the thermal X-ray emission around the Galactic Centre from colliding Wolf-Rayet winds" 
+  image: 2017MNRAS.464.4958R.png 
+  description: We compare synthetic X-ray images and spectra from simulations of the Galactic Centre with Chandra observations. The models reproduce well the spectral shape, confirming that the hot gas comes from colliding Wolf-Rayet winds. The model in which Sgr A* produced an outflow during the last few centuries best matches the observations. 
+  authors: Russell, Wang, and __Cuadra__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2017MNRAS.464.4958R  
+    display: MNRAS 464, 4958 (2017)  
+  highlight: 1  
+  news2: "NASA press release '[Galactic Center Visualization Delivers Star Power
+](https://www.nasa.gov/mission_pages/chandra/news/galactic-center-visualization-delivers-star-power.html)' on our [360° video](https://youtu.be/wBxW2_B9_Is) based on this analysis."
+  news1: "NASA press release '[A New Galactic Center Adventure in Virtual Reality](https://www.nasa.gov/mission_pages/chandra/news/a-new-galactic-center-adventure-in-virtual-reality.html)' on our [Galactic Center VR app](https://store.steampowered.com/app/1240350/Galactic_Center_VR/) developed from this work." 
+  
+
+- title: "The TDE ASASSN-14li and Its Host Resolved at Parsec Scales with the EVN" 
+  image: dummy.png 
+  description:  
+  authors: Romero-Cañizales, Prieto, __Chen__, Kochanek, Dong, Holoien, Stanek, and Liu 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2016ApJ...832L..10R  
+    display: ApJL 832, L10 (2016)  
+  highlight: 0  
+  news2:    
+
+- title: "94 Ceti: a triple star with a planet and dust disc" 
+  image: dummy.png 
+  description:  
+  authors: Wiegert, __Faramaz__, and Cruz-Saenz de Miera 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.1735W  
+    display: MNRAS 462, 1735 (2016)  
+  highlight: 0  
+  news2:    
+
+- title: "Searching for molecular outflows in hyperluminous infrared galaxies" 
+  image: dummy.png 
+  description:  
+  authors: __Calderón__, Bauer, Veilleux, Graciá-Carpio, Sturm, Lira, Schulze, and Kim 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2016MNRAS.460.3052C  
+    display: MNRAS 460, 3052 (2016)  
+  highlight: 0  
+  news2:    
+
+- title: "SDSS J0159+0105: A Radio-Quiet Quasar with a Centi-Parsec Supermassive Black Hole Binary Candidate" 
+  image: dummy.png 
+  description:  
+  authors: Zheng, Butler, Shen, Jiang, Wang, __Chen__, and __Cuadra__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2016ApJ...827...56Z  
+    display: ApJ 827, 56 (2016)  
+  highlight: 0  
+  news2:    
+
+- title: "Resolving the planetesimal belt of HR 8799 with ALMA" 
+  image: dummy.png 
+  description:  
+  authors: Booth, Jordán, Casassus, Hales, Dent, __Faramaz__, Matrà, Barkats, Brahm, and __Cuadra__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2016MNRAS.460L..10B  
+    display: MNRAS 460, L10 (2016)  
+  highlight: 0  
+  news2:    
+
+- title: "Probing dark matter crests with white dwarfs and IMBHs" 
+  image: dummy.png 
+  description:  
+  authors: Amaro-Seoane, Casanellas, Schödel, Davidson, and __Cuadra__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2016MNRAS.459..695A  
+    display: MNRAS 459, 695 (2016)  
+  highlight: 0  
+  news2:    
+
+- title: "The γ-ray afterglows of tidal disruption events" 
+  image: dummy.png 
+  description:  
+  authors: __Chen__, Gómez-Vargas, and Guillochon 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2016MNRAS.458.3314C  
+    display: MNRAS 458, 3314 (2016)  
+  highlight: 0  
+  news2:    
+
+- title: "Relativistic mergers of black hole binaries have large, similar masses, low spins and are circular" 
+  image: dummy.png 
+  description:  
+  authors: Amaro-Seoane and __Chen__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2016MNRAS.458.3075A  
+    display: MNRAS 458, 3075 (2016)  
+  highlight: 0  
+  news2:    
+
+- title: "Spiral Waves Triggered by Shadows in Transition Disks" 
+  image: dummy.png 
+  description:  
+  authors: Montesinos, Perez, Casassus, Marino, __Cuadra__, and Christiaens 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2016ApJ...823L...8M  
+    display: ApJL 823, L8 (2016)  
+  highlight: 0  
+  news2:    
+
+- title: "Unbound Debris Streams and Remnants Resulting from the Tidal Disruptions of Stars by Supermassive Black Holes" 
+  image: dummy.png 
+  description:  
+  authors: Guillochon, McCourt, __Chen__, Johnson, and Berger 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2016ApJ...822...48G  
+    display: ApJ 822, 48 (2016)  
+  highlight: 0  
+  news2:    
+
+- title: "Stability of Gas Clouds in Galactic Nuclei: An Extended Virial Theorem" 
+  image: dummy.png 
+  description:  
+  authors: __Chen__, Amaro-Seoane, and __Cuadra__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2016ApJ...819..138C  
+    display: ApJ 819, 138 (2016)  
+  highlight: 0  
+  news2:    
+
+- title: "Clump formation through colliding stellar winds in the Galactic Centre" 
+  image: dummy.png 
+  description:  
+  authors: __Calderón__, Ballone, __Cuadra__, Schartmann, Burkert, and Gillessen 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2016MNRAS.455.4388C  
+    display: MNRAS 455, 4388 (2016)  
+  highlight: 0  
+  news2:    
+
+- title: "Infalling clouds on to supermassive black hole binaries - I. Formation of discs, accretion and gas dynamics" 
+  image: dummy.png 
+  description:  
+  authors: __Goicovic__, __Cuadra__, Sesana, Stasyszyn, Amaro-Seoane, and Tanaka 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2016MNRAS.455.1989G  
+    display: MNRAS 455, 1989 (2016)  
+  highlight: 0  
+  news2:    
+
+- title: "Accretion Kinematics through the Warped Transition Disk in HD142527 from Resolved CO(6-5) Observations" 
+  image: dummy.png 
+  description:  
+  authors: Casassus, Marino, Pérez, et al. (incl. __Dunhill__ and __Cuadra__)
+  authorsall: Casassus, Marino, Pérez, Roman, __Dunhill__, Armitage, __Cuadra__, Wootten, van der Plas, Cieza, Moral, Christiaens, and Montesinos 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2015ApJ...811...92C  
+    display: ApJ 811, 92 (2015)  
+  highlight: 0  
+  news2:    
+
+- title: "Planet Formation Signposts: Observability of Circumplanetary Disks via Gas Kinematics" 
+  image: dummy.png 
+  description:  
+  authors: Perez, __Dunhill__, Casassus, Roman, Szulágyi, Flores, Marino, and Montesinos 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2015ApJ...811L...5P  
+    display: ApJL 811, L5 (2015)  
+  highlight: 0  
+  news2:    
+
+- title: "Supermassive Black Holes in a Star-forming Gaseous Circumnuclear Disk" 
+  image: dummy.png 
+  description:  
+  authors: del Valle, Escala, Maureira-Fredes, Molina, __Cuadra__, and Amaro-Seoane 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2015ApJ...811...59D  
+    display: ApJ 811, 59 (2015)  
+  highlight: 0  
+  news2:    
+
+- title: "The role of feedback in accretion on low-luminosity AGN: Sgr A* case study" 
+  image: 2015MNRAS.450..277C.png 
+  description: We present numerical models of the gas dynamics in Galactic Centre. We follow the gas from its origin as stellar winds, until it is either captured by the central black hole or leaves the region. We include an outflow from the inner accretion flow.  We find the outflow to significantly perturb the gas dynamics near the Bondi radius and the black hole capture rate. 
+  authors: __Cuadra__, Nayakshin, and Wang 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2015MNRAS.450..277C  
+    display: MNRAS 450, 277 (2015)  
+  highlight: 1  
+  news2: "NASA press release for the video: [Scientists Take Viewers to the Center of the Milky Way](https://www.nasa.gov/mission_pages/chandra/news/scientists-take-viewers-to-the-center-of-the-milky-way.html)"
+  news1: "[360° video](https://youtu.be/YKzxmeABbkU) from the simulations"
+
+- title: "Protoplanetary Disks Including Radiative Feedback from Accreting Planets" 
+  image: dummy.png 
+  description:  
+  authors: __Montesinos__, __Cuadra__, Perez, Baruteau, and Casassus 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2015ApJ...806..253M  
+    display: ApJ 806, 253 (2015)  
+  highlight: 0  
+  news2:    
+
+- title: "Precession and accretion in circumbinary discs: the case of HD 104237" 
+  image: dummy.png 
+  description:  
+  authors: __Dunhill__, __Cuadra__, and Dougados 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2015MNRAS.448.3545D  
+    display: MNRAS 448, 3545 (2015)  
+  highlight: 0  
+  news2:    
+
+- title: "1D accretion discs around eccentric planets: observable near-infrared variability." 
+  image: dummy.png 
+  description:  
+  authors: __Dunhill__ 
+  link:   
+    url:  https://ui.adsabs.harvard.edu/abs/2015MNRAS.448L..67D  
+    display: MNRAS 448, L67 (2015)  
+  highlight: 0  
+  news2:    
+

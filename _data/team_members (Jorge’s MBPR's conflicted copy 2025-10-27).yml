@@ -1,0 +1,52 @@
+- name: Jorge Cuadra
+  photo: jorge.jpg
+  role: Full professor, UAI <br> Associate researcher, NPF
+  haswww: 0
+  webpage: http://www.astro.puc.cl/~jcuadra
+  email: jcuadra@npf.cl
+  education: PhD, MPA Garching
+  area: Galactic Centre - Protoplanetary discs
+
+
+- name: Luciano del Valle
+  photo: luciano.jpg
+  role: Postdoctoral researcher, NPF & PUC
+  haswww: 0
+  webpage: 
+  email: ldelvalleb@astro.puc.cl
+  education: PhD, Univ de Chile
+  area: Solar System N-body - Circumbinary discs
+
+- name: Alex Gormaz-Matamala
+  photo: alexgm.jpg
+  role: Postdoctoral researcher, UAI
+  haswww: 1
+  webpage: https://reevolucionestelar.wordpress.com/acerca-de/
+  email: alex.gormaz@uv.cl
+  education: PhD, Univ de Valparaíso
+  area:  Stellar wind models
+
+- name: Octavio Guilera
+  photo: octavio.jpg
+  role: Adjunct researcher, PUC & NPF <br> Researcher and lecturer, CONICET-UNLP
+  haswww: 1
+  webpage: http://gap.fcaglp.unlp.edu.ar/oguilera.html
+  email: oguilera@fcaglp.unlp.edu.ar
+  education: PhD, Univ Nac La Plata
+  area: Planet formation
+
+- name: María Paula Ronco
+  photo: paula.jpg
+  role: Postdoctoral researcher, PUC & NPF
+  haswww: 1
+  webpage: https://pullitze27.wixsite.com/paularonco
+  email: pronco@npf.cl 
+  education: PhD, Univ Nac La Plata
+  area: Formation and dynamics of planetary systems
+
+
+- name: "This could be you !"
+  photo: astronaut.png
+  role: See [open positions](/plaga/vacancies)
+  haswww: 0
+  email: jcuadra@npf.cl

@@ -1,0 +1,89 @@
+- name: Diego Calderón
+  haswww: 1
+  webpage: http://utf.mff.cuni.cz/~dcalderon/index.html
+  photo: diego.jpg
+  duration: MSc 2015, PhD 2019
+  info: Now a postdoc at Charles University, Prague
+
+- name: Xian Chen
+  haswww: 1
+  webpage: http://kiaa.pku.edu.cn/info/1011/2663.htm
+  photo: xian.jpg
+  duration: Postdoc 2015-2016
+  info: Now a professor at Peking University
+
+- name: Nicolás Cuello
+  haswww: 1
+  webpage: https://cuellonicolas.wixsite.com/astrophysics
+  photo: nicolas.jpg
+  duration: Postdoc 2016-2020
+  info: Now a Marie-Curie fellow at IPAG, Grenoble 
+
+- name: Alex Dunhill
+  haswww: 1
+  webpage: http://www.acdunhill.com/
+  photo: alex.jpg
+  duration: Postdoc 2013-2015
+  info:  Afterwards a postdoc at UCLAN, Preston <br> Now a a data scientist
+
+- name: Virginie Faramaz
+  haswww: 1
+  webpage: https://science.jpl.nasa.gov/people/Faramaz/
+  photo: virginie.jpg
+  duration: Postdoc 2014-17
+  info: Afterwards a postdoc at JPL, Pasadena <br> Now a professor at the University of Arizona
+
+- name: Sofía Gallego
+  haswww: 1
+  webpage: https://cosmologa.com/
+  photo: sofia.jpg
+  duration: BSc 2012
+  info: Afterwards MSc at PUC and PhD at ETH, Zürich <br> Now a postdoc at Caltech
+
+- name: Matías Gárate
+  haswww: 0
+  webpage: https://orcid.org/0000-0001-6802-834X
+  photo: matiasG.jpg
+  duration: BSc 2015, MSc 2017
+  info: Afterwards PhD at USM, Munich <br> Now a postdoc at MPIA, Heidelberg
+
+- name: Juan Garrido-Deutelmoser
+  haswww: 1
+  webpage: https://www.jgarridodeutelmoser.com/
+  photo: juan.jpg
+  duration: BSc 2019
+  info: Now MSc student at PUC
+
+- name: Felipe G Goicovic
+  haswww: 1
+  webpage: https://de.linkedin.com/in/felipe-g-goicovic
+  photo: felipe.jpg
+  duration: PhD 2017
+  info:  Afterwards a postdoc at HITS and ITA, Heidelberg <br> Now a software developer
+
+#- name: Aira Lobo Gomes
+#  haswww: 1
+#  webpage: https://nl.linkedin.com/in/aiaragomes
+#  photo: aiara.jpg
+#  duration: Postdoc 2016
+#  info: Afterwards a data scientist <br> Currently a postdoc at Maastricht University
+
+- name: Matías Montesinos
+  photo: matiasM.jpg
+  haswww: 0
+  duration: Postdoc 2011-14; 2017
+  info: Afterwards a postdoc at U de Chile and U de Valparaíso <br> Now a professor at Universidad de Viña del Mar 
+
+- name: Pedro Poblete
+  haswww: 0
+  photo: pedro.jpg
+  duration: BSc 2017, MSc 2019
+  info: Now a PhD student at Jena University
+
+- name: Christopher Russell
+  haswww: 1
+  webpage: https://astro.puc.cl/~crussell/
+  photo: chris.jpg
+  duration: Postdoc 2017-2020
+  info: Now a postdoc at NASA-Goddard and CUA 
+

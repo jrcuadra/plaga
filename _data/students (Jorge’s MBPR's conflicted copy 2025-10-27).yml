@@ -1,0 +1,24 @@
+- name: Camilo Fontecilla
+  photo: camilo.jpg
+  role: PhD student, PUC
+  haswww: 0
+  email: cjfontec@uc.cl
+  education:  MSc in Astrophysics, PUC
+  area: Black holes and circumbinary discs
+
+- name: Camila Órdenes
+  photo: camila.jpg
+  role: PhD student, PUC
+  haswww: 0
+  email: cordenes@astro.puc.cl
+  education:  MSc in Physics, UCN
+  area: T Tauri stars variability
+
+- name: Andrés Scherer
+  photo: andres.jpg
+  role: PhD student, PUC
+  haswww: 0
+  email: ascherer@uc.cl
+  education:  Electrical Engineer and BSc in Appl Physics, USACH
+  area: Cosmic and gamma rays in the Galactic Centre
+  
