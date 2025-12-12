@@ -8,8 +8,6 @@ permalink: /vacancies
 
 # Open positions
 
-Universidad Adolfo Ibáñez has short-term (March–December 2025) [**postdoctoral positions** open](https://uai.cdn7pm.net/documentos/bases-pai-post-doctorado-2025.pdf), with the aim of applying for a 3-year FONDECYT fellowship.  This requires a PhD obtained in 2022 or later for the applicant (longer period applies to recent mothers).  If interested please contact [J Cuadra](mailto:jorge.cuadra@uai.cl) well before the Jan 20, 2025 deadline.
-
 
 
 Tenemos proyectos y financiamiento para estudiantes de astronomía, física e ingeniería, de pre- o postgrado, interesada/os en trabajar con nosotros.  ¡[Contáctanos](mailto:jorge.cuadra@uai.cl)!  En particular, estamos buscando estudiantes que quieran continuar el desarrollo de un [videojuego basado en simulaciones astrofísicas](https://store.steampowered.com/app/2601120/Protoplanet_Express/).
@@ -21,6 +19,10 @@ Tenemos proyectos y financiamiento para estudiantes de astronomía, física e in
 
 
 ## Previous announcements
+
+Universidad Adolfo Ibáñez has short-term (March–December 2025) [**postdoctoral positions** open](https://uai.cdn7pm.net/documentos/bases-pai-post-doctorado-2025.pdf), with the aim of applying for a 3-year FONDECYT fellowship.  This requires a PhD obtained in 2022 or later for the applicant (longer period applies to recent mothers).  If interested please contact [J Cuadra](mailto:jorge.cuadra@uai.cl) well before the Jan 20, 2025 deadline.
+
+
 
 The [N&uacute;cleo Milenio for Transversal Research and Technology to explore Supermassive Black Holes (TITANS)](http://www.astro.udec.cl/titans/) invites applications to fill one [**postdoctoral position**](https://jobregister.aas.org/ad/519e1af4) in SMBH astrophysics.  We  will give priority to candidates that can expand or complement our group from the computational and theoretical perspectives.
 The positions can be hosted at any of the TITANS member universities, including UAI in Viña del Mar. 
