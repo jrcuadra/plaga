@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-For a full list see [below](#full-list). For our most recent papers follow this [ADS link](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=author%3A%22cuadra%2C%20jorge%22%20OR%20author%3A%22granda-mu%C3%B1oz%2C%20guido%22%20OR%20author%3A%22sandoval%2C%20astor%22%20%20%20year%3A2025-&sort=date%20desc%2C%20bibcode%20desc&p_=0) (may contain false positives).
+For a full list see [below](#full-list). For our most recent papers follow this [ADS link](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A%22cuadra%2C%20jorge%22%20OR%20author%3A%22granda-mu%C3%B1oz%2C%20guido%22%20OR%20author%3A%22sandoval%2C%20astor%22%20%20%20year%3A2025-%20-%22HAWC%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) (may contain false positives).
 
 
 ## Group highlights
