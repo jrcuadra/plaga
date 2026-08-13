@@ -3,7 +3,7 @@ title: "AT 2021hdr: A Nuclear Transient from Gas Cloud Disruption by a Binary Su
 layout: textlay
 excerpt: "AT 2021hdr: A Nuclear Transient from Gas Cloud Disruption by a Binary Supermassive Black Hole"
 sitemap: false
-permalink: /larim_ppe/
+permalink: /crete_AT2021hdr/
 ---
 
 ### Poster presentation "AT 2021hdr: A Nuclear Transient from Gas Cloud Disruption by a Binary Supermassive Black Hole" by Jorge Cuadra, TDEs and NTs in Crete 2026
