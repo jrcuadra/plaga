@@ -15,7 +15,7 @@ Research article "AT 2021hdr: A candidate tidal disruption of a gas cloud by a b
 [arXiv](https://arxiv.org/abs/2411.08949))
 
 
-Download a [copy of the poster](/plaga/downloads/larim_ppe.pdf)
+Download a [copy of the poster](/plaga/downloads/crete_AT2021hdr.pdf)
 
 {% include youtubePlayer.html id="LJEkrP08RtE" %}
 
